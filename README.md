@@ -1,4 +1,4 @@
-# My first Mini-Project!
+# Interactive Frontend Development Mini-Project
 
 
 ## Objective
@@ -11,6 +11,6 @@ and as a place to pull certain elements to use in other projects.
 
 ## Tools/Technologies
 
-I used HTML and CSS languages, Font Awesome fonts and Icons, along with Bootstrap4. 
+I used HTML, CSS, and Javascript languages, Font Awesome fonts and Icons, along with Bootstrap4. 
 
 This mini-project is currently hosted on GitHub pages.
